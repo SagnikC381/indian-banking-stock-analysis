@@ -72,7 +72,8 @@ This project is for educational and analytical purposes only. The findings are b
 
 ## Author
 
-**Sagnik Chakraborty**
+Sagnik Chakraborty
 
 Python for Finance & Stock Market Analytics  
 AlphaEdge Capital
+
